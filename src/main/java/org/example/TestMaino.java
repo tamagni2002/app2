@@ -5,5 +5,6 @@ public class TestMaino {
         System.out.println("Hello Amigo");
         Person person = new Person("Tata");
         System.out.println(person.getName());
+        System.out.println("Hello World");
     }
 }
